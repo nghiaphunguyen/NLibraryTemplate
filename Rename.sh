@@ -6,7 +6,7 @@ if [ -z "$1" ]
   exit 1
 fi
 
-OLDNAME="KnackerTemplate"
+OLDNAME="NLibraryTemplate"
 
 if [ -z "$2" ]
   then

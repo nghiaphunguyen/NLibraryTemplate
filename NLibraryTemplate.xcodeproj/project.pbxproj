@@ -127,6 +127,7 @@
 		1860261B1DBF2DB800014635 /* NLibraryTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				1860264A1DBF36D400014635 /* Source */,
 				1860261C1DBF2DB800014635 /* AppDelegate.swift */,
 				1860261E1DBF2DB800014635 /* ViewController.swift */,
 				186026201DBF2DB800014635 /* Main.storyboard */,
@@ -153,6 +154,13 @@
 				1860263E1DBF2DB800014635 /* Info.plist */,
 			);
 			path = NLibraryTemplateUITests;
+			sourceTree = "<group>";
+		};
+		1860264A1DBF36D400014635 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 		2D466F32582F0E3660B83541 /* Frameworks */ = {
